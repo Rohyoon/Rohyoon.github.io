@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>第一篇hexo博客</title>
-    <url>/2023/03/08/test/</url>
-    <content><![CDATA[]]></content>
+    <title>学习使用Typora</title>
+    <url>/2023/03/08/study-Typora/</url>
+    <content><![CDATA[<h1 id="Typora学习"><a href="#Typora学习" class="headerlink" title="Typora学习"></a>Typora学习</h1><hr>
+<h2 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h2><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308112229992.png" alt="image-20230308112229992" style="zoom:50%;" />
+
+<p><img src="/study-Typora/image-20230308111639805.png" alt="image-20230308111639805"></p>
+<h2 id="二、段落"><a href="#二、段落" class="headerlink" title="二、段落"></a>二、段落</h2><h4 id="1、上下标"><a href="#1、上下标" class="headerlink" title="1、上下标"></a>1、上下标</h4><p>代码：</p>
+<p>​	<code>x^2^</code>       x^2^</p>
+<p><code>H~2~o</code>    H<del>2</del></p>
+<p><code>hello</code></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;hello world&quot;</span> &lt;&lt; endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h4 id="2、链接"><a href="#2、链接" class="headerlink" title="2、链接"></a>2、链接</h4><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308111639805.png" alt="image-20230308111639805"></p>
+<h4 id="2、分割线"><a href="#2、分割线" class="headerlink" title="2、分割线"></a>2、分割线</h4><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308111832933.png" alt="image-20230308111832933"></p>
+<h2 id="三、文字显示"><a href="#三、文字显示" class="headerlink" title="三、文字显示"></a>三、文字显示</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308142933645.png" alt="image-20230308142933645"></p>
+<p>如何打出‘*’    ：*1*2*3</p>
+<h2 id="四、列表"><a href="#四、列表" class="headerlink" title="四、列表"></a>四、列表</h2><h4 id="1、无序列表"><a href="#1、无序列表" class="headerlink" title="1、无序列表"></a>1、无序列表</h4><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308143551987.png" alt="image-20230308143551987"></p>
+<p>-<br>    - ​	<br>        - ​	</p>
+<h4 id="2、有序列表"><a href="#2、有序列表" class="headerlink" title="2、有序列表"></a>2、有序列表</h4><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308144522278.png" alt="image-20230308144522278"></p>
+<h4 id="3、任务列表"><a href="#3、任务列表" class="headerlink" title="3、任务列表"></a>3、任务列表</h4><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308145243561.png" alt="image-20230308145243561"></p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 学Typora</li>
+</ul>
+<h2 id="五、区块显示"><a href="#五、区块显示" class="headerlink" title="五、区块显示"></a>五、区块显示</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308145726855.png" alt="image-20230308145726855"></p>
+<blockquote>
+<p>​	第一层</p>
+<blockquote>
+<p>​	第二层</p>
+<blockquote>
+<p>第三层</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="六、代码显示"><a href="#六、代码显示" class="headerlink" title="六、代码显示"></a>六、代码显示</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308150004628.png" alt="image-20230308150004628"></p>
+<h2 id="七、链接"><a href="#七、链接" class="headerlink" title="七、链接"></a>七、链接</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308150059244.png" alt="image-20230308150059244"></p>
+<h2 id="八、脚注"><a href="#八、脚注" class="headerlink" title="八、脚注"></a>八、脚注</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308150159344.png" alt="image-20230308150159344"></p>
+<p>这是一个技术活<a href="%E8%BF%99%E6%98%AF%E8%AF%B4%E6%98%8E%3Cbr%3E%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E8%A1%8C%E8%AF%B4%E6%98%8E">^1</a>（若是说明较长，可使用</br>进行换行：不包括‘&#x2F;’</p>
+<h2 id="九、图片插入"><a href="#九、图片插入" class="headerlink" title="九、图片插入"></a>九、图片插入</h2><p><img src="C:\Users\zam\AppData\Roaming\Typora\typora-user-images\image-20230308151130223.png" alt="image-20230308151130223"></p>
+<h2 id="十、插入表格"><a href="#十、插入表格" class="headerlink" title="十、插入表格"></a>十、插入表格</h2><p>快捷键：CTRL+T</p>
+<h2 id="十一、数学公式的插入"><a href="#十一、数学公式的插入" class="headerlink" title="十一、数学公式的插入"></a>十一、数学公式的插入</h2>]]></content>
       <categories>
         <category>工具</category>
-        <category>hexo</category>
       </categories>
       <tags>
         <tag>工具</tag>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -30,5 +67,18 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>第一篇hexo博客</title>
+    <url>/2023/03/08/test/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>工具</category>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
