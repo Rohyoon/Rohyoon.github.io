@@ -18,4 +18,17 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>第一篇hexo博客</title>
+    <url>/2023/03/08/test/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>工具</category>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
 </search>
