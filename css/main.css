@@ -1243,7 +1243,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #dff58a;
+  background: #30ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2429,6 +2429,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-meta {
+  color: #fff;
   padding: 20px 0;
   background-image: url("/images/blogHead.jpg");
 }
@@ -2438,6 +2439,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .brand {
+  background: none;
   padding: 0;
 }
 .site-subtitle {
